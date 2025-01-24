@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <section className="hero" id="home">
       <div className="hero-banner">
-        <h1>continue exploring</h1>
+        <h1>Backroads app</h1>
         <p>
           From lush parks to serene trails, we guide you through breathtaking
           landscapes and natural wonders
